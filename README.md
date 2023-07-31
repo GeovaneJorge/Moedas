@@ -1,8 +1,8 @@
 # Moedas
 
 Projeto criado para conversão de moedas de Real brasileiro para Dólar, Euro e Bitcoin. 
-Projeto básico com as tecnologias ultilizadas HTML,CSS e Javascript no qual esta sendo implementado nossas funcionalidades.
+Projeto desenvolvido com as tecnologias ultilizadas de front end HTML,CSS e Javascript no qual esta sendo implementado nossas funcionalidades de novas moedas.
 
-![alt text](https://github.com/GeovaneJorge/Calculadora_Projeto/blob/master/Print%201.JPG)
+![alt text](https://github.com/GeovaneJorge/Moedas/blob/main/print01.PNG)
 
 
